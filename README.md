@@ -72,8 +72,7 @@ Before installing the currency converter ensure you have :
 ## API Reference
    - The API used in the development of this project is the exchangerate-api.com.
     Check them out here:
-
-    https://www.exchangerate-api.com
+> https://www.exchangerate-api.com
 
 ## Additional Notes
    - Updates and Maintenance: Periodically check for updates to the currency converter application and its dependencies.
