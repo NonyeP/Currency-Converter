@@ -32,7 +32,7 @@ This project aims to simplify and provide clarity on the exact value of one curr
  5. Accuracy and Reliability: Ensures accurate and reliable conversion calculations based on real-time data sources.
 
 # Demo
-http://github.com/NonyeP/Currency-Converter/src/converter/currencyconverter_snapshot
+src/converter/currencyconverter_snapshot.jpg
 
 # Installation Guide
 Before installing the currency converter ensure you have :
