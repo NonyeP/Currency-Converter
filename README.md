@@ -32,6 +32,7 @@ This project aims to simplify and provide clarity on the exact value of one curr
  5. Accuracy and Reliability: Ensures accurate and reliable conversion calculations based on real-time data sources.
 
 # Demo
+Currency converter screenshot
 > [src/](https://github.com/NonyeP/Currency-Converter/blob/main/src/converter/currencyconverter_snapshot.jpg)
 
 # Installation Guide
