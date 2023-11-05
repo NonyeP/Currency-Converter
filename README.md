@@ -33,7 +33,7 @@ This project aims to simplify and provide clarity on the exact value of one curr
 
 # Demo
 Currency converter screenshot
-> [src/](https://github.com/NonyeP/Currency-Converter/blob/main/src/converter/currencyconverter_snapshot.jpg)
+> [src/](https://github.com/NonyeP/Currency-Converter/blob/main/src/converter/currencyconverter.png)
 
 # Installation Guide
 Before installing the currency converter ensure you have :
