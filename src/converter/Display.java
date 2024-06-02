@@ -35,7 +35,9 @@ public class Display extends JFrame {
 
 
 
-        ImageIcon image = new ImageIcon("C:\\Users\\Paul\\CBFAcademy\\currency_symbol.png");
+        String relativepath = "currencyconverter\\src\\main\\java\\updatedprojects\\currency_symbol.png";
+        Path path = Paths.get(relativepath);
+        ImageIcon image = new ImageIcon(String.valueOf(path.toAbsolutePath()));
         setIconImage(image.getImage());//get icon of image
 
         //create labels and set properties and bounds
