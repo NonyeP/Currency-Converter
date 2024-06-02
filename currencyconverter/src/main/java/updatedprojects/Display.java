@@ -26,7 +26,7 @@ public class Display extends JFrame {
         System.out.println(date);
 
         // Create a frame (window) and set its properties
-        setTitle("CBF STRETCH PROJECT: CURRENCY CONVERTER PROJECT WITH LIVE RESULTS(2)" + "     DATE: " + new Date());
+        setTitle("PROJECT: CURRENCY CONVERTER PROJECT WITH LIVE RESULTS(2)" + "     DATE: " + new Date());
         setSize(400, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -34,9 +34,9 @@ public class Display extends JFrame {
 
 
 
-        String relativepath = "CBFAcademy\\currency_symbol.png";
+        String relativepath = "currencyconverter\\src\\main\\java\\updatedprojects\\currency_symbol.png";
         Path path = Paths.get(relativepath);
-        ImageIcon image = new ImageIcon(String.valueOf(path.toAbsolutePath()));
+        ImageIcon image = new ImageIcon(String.valueOf(path.toAbsolutePath()));//("C:\\Users\\Paul\\UpdateProjectsJava\\currencyconverter\\src\\main\\java\\updatedprojects\\currency_symbol.png");
         setIconImage(image.getImage());//get icon of image
 
         //create labels and set properties and bounds
